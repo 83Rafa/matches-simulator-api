@@ -28,19 +28,19 @@
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
     },
     "visitante": {
-      "nome": "Brasil",
-      "forca": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "nome": "Bolívia",
+      "forca": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png"
     }
   },
   {
     "descricao": "Eliminatórias Copa 2022", 
     "local": {
-      "nome": "Maracanã",
-      "imagem": "https://www.morenanews.com/wp-content/uploads/2021/01/maracanaazul.jpg"
+      "nome": "Estádio Nacional de Chile",
+      "imagem": "https://a5k5v6q9.stackpathcdn.com/wp-content/uploads/2017/11/estadio-nacional-julio-martinez-pradanos.jpg"
     },
     "mandante": {
-      "nome": "Brasil",
+      "nome": "Clile",
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
@@ -48,6 +48,40 @@
       "nome": "Colômbia",
       "forca": 3,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
+    }
+  },
+  {
+    "descricao": "Eliminatórias Copa 2022", 
+    "local": {
+      "nome": "Estádio Monumental",
+      "imagem": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt8aa8fe9e520b71bb/615f72be07aaed59472ed755/41758133aef85326d72a8bf8933a61a74ca2e195.jpg?width=1086&height=652"
+    },
+    "mandante": {
+      "nome": "Perú",
+      "forca": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/pe.png"
+    },
+    "visitante": {
+      "nome": "Venezuela",
+      "forca": 2,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ve.png"
+    }
+  },
+  {
+    "descricao": "Eliminatórias Copa 2022", 
+    "local": {
+      "nome": "Defensores Del Chaco",
+      "imagem": "https://extra.globo.com/incoming/23756285-ac7-fb2/w976h550-PROP/olla-1_1.jpg"
+    },
+    "mandante": {
+      "nome": "Paraguai",
+      "forca": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/py.png"
+    },
+    "visitante": {
+      "nome": "Equador",
+      "forca": 2,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ec.png"
     }
   }
 ]
